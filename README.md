@@ -16,6 +16,8 @@ An offline-capable, bare-metal neuro-engineering framework that processes dense 
 * `multiplex_closed_loop.py` - Multi-epoch tracking monitor simulation pipeline.
 * `multiplex_profile.py` - Real-time execution latency benchmark profiling script.
 * `multiplex_dashboard.py` - PyQt6 real-time graphical telemetry monitoring console.
+* ![Real-Time Multiplex Telemetry Monitor](dashboard_telemetry.png)
+
 
 ## Empirical Hardware Metrics
 * **Mean Inference Latency:** 0.2080 ms
