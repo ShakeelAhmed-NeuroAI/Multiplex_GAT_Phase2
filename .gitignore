@@ -1,0 +1,18 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & Virtual Environments
+.venv/
+venv/
+neuro_env/
+ENV/
+
+# Model checkpoints and serialized binaries (re-generated locally by user scripts)
+*.pth
+*.onnx
+
+# Operating System Files
+Thumbs.db
+.DS_Store
